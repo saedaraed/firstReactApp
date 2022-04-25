@@ -1,0 +1,32 @@
+.feature {
+    width: 100%;
+}
+
+.card {
+    /* background-color: rebeccapurple; */
+    border: solid 2px aqua;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+    margin-top: 50px;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card .details {
+    padding-left: 20px;
+}
+
+.card .details p {
+    font-size: medium;
+}
+
+.card .details button {
+    font-size: small;
+    height: 40px;
+}

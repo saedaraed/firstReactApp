@@ -1,0 +1,16 @@
+.buttonPar {
+    /* display: flex; */
+    /* justify-content: end; */
+    width: 100%;
+}
+
+button {
+    background-color: aqua;
+    /* width: 80px; */
+    height: 50px;
+    padding: 0px 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: large;
+    color: black;
+}

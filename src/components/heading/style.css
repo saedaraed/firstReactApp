@@ -1,0 +1,8 @@
+.heading {
+    /* height: 90vh; */
+    width: 100%;
+    /* background-color: blueviolet; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
